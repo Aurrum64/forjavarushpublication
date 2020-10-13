@@ -24,7 +24,7 @@
         <compilerplugin.version>3.7.0</compilerplugin.version>
 
         <!-- JUnit -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <build>
